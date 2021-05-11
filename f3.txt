@@ -1,1 +1,2 @@
-This is by VS
+This is by VS.
+New features added.
